@@ -17,3 +17,4 @@ int main()
     cout<<endl;
     obj.mas(20.1,10.1);
 }
+//
